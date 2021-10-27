@@ -1,0 +1,23 @@
+{
+  "name": "m3-w1-d2-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenJuul/M3-W1-D2-Homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MortenJuul/M3-W1-D2-Homework/issues"
+  },
+  "homepage": "https://github.com/MortenJuul/M3-W1-D2-Homework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
